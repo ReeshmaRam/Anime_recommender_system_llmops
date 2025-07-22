@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: ANIME-RECCOMENDER
+Version: 0.1
+Author: ReeshmaRam
+Requires-Dist: langchain
+Requires-Dist: langchain_core
+Requires-Dist: langchain_huggingface
+Requires-Dist: python-dotenv
+Dynamic: author
+Dynamic: requires-dist
